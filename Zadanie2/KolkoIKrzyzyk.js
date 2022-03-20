@@ -26,7 +26,7 @@ function Start(){
 }
 function Reset() {
     stanGryPomoc = ["", "", "", "", "", "", "", "", ""];
-    
+    active = false;
     document.getElementById('wynik').innerHTML = "";
     document.getElementById('stan').innerHTML = "Gra jest nieaktywna, proszę kliknąć Start";
     document.getElementById('gracz').innerHTML = "Brak aktywnego gracza";
