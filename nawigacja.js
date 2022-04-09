@@ -11,7 +11,7 @@ const routes = {
     "/podstrony/Kontakt.html": "/podstrony/Kontakt.html",
     "/podstrony/Jazz.html": "/podstrony/Jazz.html",
     "/podstrony/Rock.html": "/podstrony/Rock.html",
-    "/podstrony/index.html": "/podstrony/Podstawowa.html",
+    "/index.html": "/podstrony/Podstawowa.html",
 };
 
 const handleLocation = async () => {
